@@ -1,25 +1,22 @@
 <div align="center"> 
 
-# Projetos com Arduino Uno e Eletrônica
+# Projects with Arduino Uno and Electronics
 
-**Período**: 2021 – 2023  
-**Curso Técnico em Eletrônica**
+**Period**: 2021 – 2023  
+**Technical Course in Electronics**
 
-Este repositório reúne **exercícios práticos e projetos com Arduino Uno**, desenvolvidos ao longo do meu curso técnico em eletrônica. O objetivo foi aplicar conceitos de **eletrônica analógica, digital e microcontroladores**, criando soluções simples, funcionais e didáticas.
+This repository gathers **practical exercises and projects with Arduino Uno**, developed during my technical course in electronics. The goal was to apply concepts of **analog and digital electronics, as well as microcontrollers**, creating simple, functional, and educational solutions.
 
 </div>
 
 ---
 
-## Aprendizados
+## Key Learnings
 
-Durante esses projetos, desenvolvi habilidades em:
-- Montagem e interpretação de circuitos eletrônicos
-- Lógica de programação em Arduino (C/C++)
-- Leitura de sensores e atuação com sinais digitais/analógicos
-- Organização e documentação de projetos
+Throughout these projects, I developed skills in:
+- Assembling and interpreting electronic circuits  
+- Programming logic with Arduino (C/C++)  
+- Reading sensors and working with digital/analog signals  
+- Organizing and documenting technical projects
 
 ---
-
-
-
